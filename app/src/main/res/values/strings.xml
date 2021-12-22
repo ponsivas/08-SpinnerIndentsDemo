@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">J8_SpinnerIndents</string>
+    <string name="home">Home</string>
+    <string name="android">ANDROID</string>
+
+    <string name="java">JAVA</string>
+
+    <string name="testing">TESTING</string>
+    <string name="spinner_with_multiple_activities">Spinner with Multiple Activities</string>
+    <string name="reset">RESET</string>
+    <string name="dr_p_sivaram">Dr.P.Sivaram</string>
+</resources>
